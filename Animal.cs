@@ -7,5 +7,7 @@ namespace Animal
         protected string Nome { get; set; }
 
         public string Especies { get; set; }
+        
+        console.writeline("Hello Bruno!");
     }
 }
